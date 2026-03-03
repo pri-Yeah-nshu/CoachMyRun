@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background: #000;
+  color: aliceblue;
+  overflow: auto;
+}
+button {
+  cursor: pointer;
+}
